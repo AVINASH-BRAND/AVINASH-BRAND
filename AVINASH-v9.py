@@ -1300,7 +1300,7 @@ def Subscraption():
 	clear()
 	print(logo)
 	r1=requests.get("https://github.com/AVINASH-BRAND/AVINASH-BRAND/edit/main/APPROVAL").text
-	if key1 in r1:
+	ifkey1 in r1:
 		os.system('clear')
 		print(logo)
 		Main()
@@ -1312,14 +1312,14 @@ def Subscraption():
 		os.system("clear")
 		print(logo)
 		print ("")
-		print(" \033[1;32m AVINASH Toll Paid You Need Get Approved First\033[1;37m\n")
+		print(" \033[1;32m UZAIR Toll Paid You Need Get Approved First\033[1;37m\n")
 		print(" \033[1;32m Note : PAY LAGEGA JAANI\n Payment Method\nBinance(10$)\nBCash(150taka)\nesawa(600rs)\nMoru(400rupa)\033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
 		print("")
 		print(" Copy And Send Key To Admin")
 		print ("")
-		print (" Your Key : "+ak+AVINASH+key1)
+		print (" Your Key : "+ak+ahsan+key1)
 		print ("")
 		name = input(" Your Name : ")
 		print ("")
