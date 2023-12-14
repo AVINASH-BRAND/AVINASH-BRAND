@@ -1300,7 +1300,7 @@ def Subscraption():
 	clear()
 	print(logo)
 	r1=requests.get("https://github.com/AVINASH-BRAND/AVINASH-BRAND/edit/main/APPROVAL").text
-	ifkey1 in r1:
+	if key1 in r1:
 		os.system('clear')
 		print(logo)
 		Main()
