@@ -1312,7 +1312,7 @@ def Subscraption():
 		os.system("clear")
 		print(logo)
 		print ("")
-		print(" \033[1;32m UZAIR Toll Paid You Need Get Approved First\033[1;37m\n")
+		print(" \033[1;32m AVINASH Toll Paid You Need Get Approved First\033[1;37m\n")
 		print(" \033[1;32m Note : PAY LAGEGA JAANI\n Payment Method\nBinance(10$)\nBCash(150taka)\nesawa(600rs)\nMoru(400rupa)\033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
